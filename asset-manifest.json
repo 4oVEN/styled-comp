@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/styled-comp/static/js/main.f8a19c6e.js",
+    "static/media/Woman.png": "/styled-comp/static/media/Woman.4f81fcd99826edb36407.png",
+    "static/media/app.png": "/styled-comp/static/media/app.9aebbb2a82730174930f.png",
+    "static/media/how.png": "/styled-comp/static/media/how.37dcaaa2f15aca359ef0.png",
+    "static/media/double-bubble-outline.png": "/styled-comp/static/media/double-bubble-outline.0694bcab931c5d2c1b71.png",
+    "index.html": "/styled-comp/index.html",
+    "main.f8a19c6e.js.map": "/styled-comp/static/js/main.f8a19c6e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f8a19c6e.js"
+  ]
+}
